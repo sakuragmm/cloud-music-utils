@@ -1,3 +1,7 @@
+# cloud-music-utils
+网易云音乐工具包合集，包含音乐下载、音乐缓存转MP3/flac、ncm转MP3/flac功能
+
+
 # 不生产代码，只是代码的搬运工
 
 - [ncm-downloader-歌曲下载](https://github.com/rong6/ncm-downloader.git)
