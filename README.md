@@ -1,9 +1,9 @@
 # 不生产代码，只是代码的搬运工
 
-- 1、[ncm-downloader-歌曲下载](https://github.com/rong6/ncm-downloader.git)
-- 2、[ncmCacheDump-试听缓存转MP3（需要搭配【4】使用）](https://github.com/haojiezhe12345/ncmCacheDump.git)
-- 3、[ncmdump-ncm格式转MP3/flac](https://github.com/taurusxin/ncmdump.git)
-- 4、[neteasecloudmusicapi-网易云音乐api](https://gitlab.com/Binaryify/neteasecloudmusicapi.git)
+- [ncm-downloader-歌曲下载](https://github.com/rong6/ncm-downloader.git)
+- [ncmCacheDump-试听缓存转MP3（需要搭配api使用）](https://github.com/haojiezhe12345/ncmCacheDump.git)
+- [ncmdump-ncm格式转MP3/flac](https://github.com/taurusxin/ncmdump.git)
+- [neteasecloudmusicapi-网易云音乐api](https://gitlab.com/Binaryify/neteasecloudmusicapi.git)
 
 
 # 免责声明
