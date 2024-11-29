@@ -2,12 +2,12 @@
 网易云音乐工具包合集，包含音乐下载、音乐缓存转MP3/flac、ncm转MP3/flac功能
 
 
-# 不生产代码，只是代码的搬运工
+# 不生产代码，只是代码的搬运工，膜拜各位大佬
 
-- [ncm-downloader-歌曲下载](https://github.com/rong6/ncm-downloader.git)
-- [ncmCacheDump-试听缓存转MP3（需要搭配api使用）](https://github.com/haojiezhe12345/ncmCacheDump.git)
-- [ncmdump-ncm格式转MP3/flac](https://github.com/taurusxin/ncmdump.git)
-- [neteasecloudmusicapi-网易云音乐api](https://gitlab.com/Binaryify/neteasecloudmusicapi.git)
+- [ncm-downloader - 歌曲下载（需要搭配api使用）](https://github.com/rong6/ncm-downloader.git)
+- [neteasecloudmusicapi - 网易云音乐api](https://gitlab.com/Binaryify/neteasecloudmusicapi.git)
+- [ncmCacheDump - 音乐缓存转MP3/flac](https://github.com/haojiezhe12345/ncmCacheDump.git)
+- [ncmdump - ncm格式转MP3/flac](https://github.com/taurusxin/ncmdump.git)
 
 
 # 免责声明
